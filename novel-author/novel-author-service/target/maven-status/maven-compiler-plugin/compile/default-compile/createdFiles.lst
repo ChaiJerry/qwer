@@ -1,0 +1,16 @@
+io\github\xxyopen\novel\author\config\AuthInterceptor.class
+io\github\xxyopen\novel\author\service\impl\AuthorServiceImpl.class
+io\github\xxyopen\novel\author\dao\mapper\AuthorCodeMapper.class
+io\github\xxyopen\novel\author\dao\mapper\AuthorInfoMapper.class
+io\github\xxyopen\novel\author\config\WebConfig.class
+io\github\xxyopen\novel\author\dao\entity\AuthorIncomeDetail.class
+io\github\xxyopen\novel\author\dao\mapper\AuthorIncomeMapper.class
+io\github\xxyopen\novel\author\manager\feign\BookFeignManager.class
+io\github\xxyopen\novel\author\dao\mapper\AuthorIncomeDetailMapper.class
+io\github\xxyopen\novel\author\manager\cache\AuthorInfoCacheManager.class
+io\github\xxyopen\novel\author\dao\entity\AuthorCode.class
+io\github\xxyopen\novel\author\dao\entity\AuthorIncome.class
+io\github\xxyopen\novel\author\controller\author\AuthorController.class
+io\github\xxyopen\novel\author\NovelAuthorApplication.class
+io\github\xxyopen\novel\author\dao\entity\AuthorInfo.class
+io\github\xxyopen\novel\author\service\AuthorService.class

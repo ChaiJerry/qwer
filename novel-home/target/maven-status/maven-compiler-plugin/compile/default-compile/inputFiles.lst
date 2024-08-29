@@ -1,0 +1,13 @@
+C:\Users\lenovo\Desktop\qwer\novel-home\src\main\java\io\github\xxyopen\novel\home\manager\cache\HomeBookCacheManager.java
+C:\Users\lenovo\Desktop\qwer\novel-home\src\main\java\io\github\xxyopen\novel\home\NovelHomeApplication.java
+C:\Users\lenovo\Desktop\qwer\novel-home\src\main\java\io\github\xxyopen\novel\home\service\impl\HomeServiceImpl.java
+C:\Users\lenovo\Desktop\qwer\novel-home\src\main\java\io\github\xxyopen\novel\home\dao\entity\HomeBook.java
+C:\Users\lenovo\Desktop\qwer\novel-home\src\main\java\io\github\xxyopen\novel\home\dao\entity\HomeFriendLink.java
+C:\Users\lenovo\Desktop\qwer\novel-home\src\main\java\io\github\xxyopen\novel\home\dao\mapper\HomeBookMapper.java
+C:\Users\lenovo\Desktop\qwer\novel-home\src\main\java\io\github\xxyopen\novel\home\controller\front\HomeController.java
+C:\Users\lenovo\Desktop\qwer\novel-home\src\main\java\io\github\xxyopen\novel\home\dto\resp\HomeBookRespDto.java
+C:\Users\lenovo\Desktop\qwer\novel-home\src\main\java\io\github\xxyopen\novel\home\service\HomeService.java
+C:\Users\lenovo\Desktop\qwer\novel-home\src\main\java\io\github\xxyopen\novel\home\dto\resp\HomeFriendLinkRespDto.java
+C:\Users\lenovo\Desktop\qwer\novel-home\src\main\java\io\github\xxyopen\novel\home\dao\mapper\HomeFriendLinkMapper.java
+C:\Users\lenovo\Desktop\qwer\novel-home\src\main\java\io\github\xxyopen\novel\home\manager\cache\FriendLinkCacheManager.java
+C:\Users\lenovo\Desktop\qwer\novel-home\src\main\java\io\github\xxyopen\novel\home\manager\feign\BookFeignManager.java

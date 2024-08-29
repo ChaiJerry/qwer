@@ -1,0 +1,13 @@
+io\github\xxyopen\novel\home\manager\cache\HomeBookCacheManager.class
+io\github\xxyopen\novel\home\dao\mapper\HomeFriendLinkMapper.class
+io\github\xxyopen\novel\home\service\HomeService.class
+io\github\xxyopen\novel\home\dao\entity\HomeFriendLink.class
+io\github\xxyopen\novel\home\dto\resp\HomeBookRespDto.class
+io\github\xxyopen\novel\home\dao\entity\HomeBook.class
+io\github\xxyopen\novel\home\manager\feign\BookFeignManager.class
+io\github\xxyopen\novel\home\dao\mapper\HomeBookMapper.class
+io\github\xxyopen\novel\home\dto\resp\HomeFriendLinkRespDto.class
+io\github\xxyopen\novel\home\NovelHomeApplication.class
+io\github\xxyopen\novel\home\manager\cache\FriendLinkCacheManager.class
+io\github\xxyopen\novel\home\controller\front\HomeController.class
+io\github\xxyopen\novel\home\service\impl\HomeServiceImpl.class

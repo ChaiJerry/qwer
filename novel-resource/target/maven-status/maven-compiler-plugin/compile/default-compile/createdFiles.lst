@@ -1,0 +1,10 @@
+io\github\xxyopen\novel\resource\service\impl\ResourceServiceImpl.class
+io\github\xxyopen\novel\resource\config\WebConfig.class
+io\github\xxyopen\novel\resource\controller\ResourceController.class
+io\github\xxyopen\novel\resource\NovelResourceApplication.class
+io\github\xxyopen\novel\resource\manager\redis\VerifyCodeManager.class
+io\github\xxyopen\novel\resource\interceptor\FileInterceptor.class
+io\github\xxyopen\novel\resource\util\ImgVerifyCodeUtils.class
+io\github\xxyopen\novel\resource\dto\resp\ImgVerifyCodeRespDto$ImgVerifyCodeRespDtoBuilder.class
+io\github\xxyopen\novel\resource\dto\resp\ImgVerifyCodeRespDto.class
+io\github\xxyopen\novel\resource\service\ResourceService.class

@@ -1,0 +1,11 @@
+io\github\xxyopen\novel\news\service\impl\NewsServiceImpl.class
+io\github\xxyopen\novel\news\NovelNewsApplication.class
+io\github\xxyopen\novel\news\service\NewsService.class
+io\github\xxyopen\novel\news\dao\mapper\NewsCategoryMapper.class
+io\github\xxyopen\novel\news\controller\NewsController.class
+io\github\xxyopen\novel\news\dao\mapper\NewsContentMapper.class
+io\github\xxyopen\novel\news\dao\mapper\NewsInfoMapper.class
+io\github\xxyopen\novel\news\dao\entity\NewsInfo.class
+io\github\xxyopen\novel\news\manager\cache\NewsCacheManager.class
+io\github\xxyopen\novel\news\dao\entity\NewsContent.class
+io\github\xxyopen\novel\news\dao\entity\NewsCategory.class

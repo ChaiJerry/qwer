@@ -1,0 +1,3 @@
+io\github\xxyopen\novel\author\dto\AuthorInfoDto.class
+io\github\xxyopen\novel\author\dto\AuthorInfoDto$AuthorInfoDtoBuilder.class
+io\github\xxyopen\novel\author\dto\req\AuthorRegisterReqDto.class

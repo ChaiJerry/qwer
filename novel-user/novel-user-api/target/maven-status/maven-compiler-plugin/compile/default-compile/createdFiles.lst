@@ -1,0 +1,13 @@
+io\github\xxyopen\novel\user\feign\UserFeign.class
+io\github\xxyopen\novel\user\feign\UserFeign$UserFeignFallback.class
+io\github\xxyopen\novel\user\dto\UserInfoDto.class
+io\github\xxyopen\novel\user\dto\resp\UserLoginRespDto.class
+io\github\xxyopen\novel\user\dto\resp\UserInfoRespDto$UserInfoRespDtoBuilder.class
+io\github\xxyopen\novel\user\dto\UserInfoDto$UserInfoDtoBuilder.class
+io\github\xxyopen\novel\user\dto\resp\UserLoginRespDto$UserLoginRespDtoBuilder.class
+io\github\xxyopen\novel\user\dto\req\UserRegisterReqDto.class
+io\github\xxyopen\novel\user\dto\req\UserInfoUptReqDto.class
+io\github\xxyopen\novel\user\dto\req\UserLoginReqDto.class
+io\github\xxyopen\novel\user\dto\resp\UserInfoRespDto.class
+io\github\xxyopen\novel\user\dto\resp\UserRegisterRespDto$UserRegisterRespDtoBuilder.class
+io\github\xxyopen\novel\user\dto\resp\UserRegisterRespDto.class
