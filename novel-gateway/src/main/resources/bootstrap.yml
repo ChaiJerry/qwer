@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: novel-gateway
+  cloud:
+    nacos:
+      config:
+        server-addr: nacos-0.nacos-headless.default.svc.cluster.local:8848
+        file-extension: yml
+
+

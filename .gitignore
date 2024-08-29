@@ -1,0 +1,8 @@
+**/logs
+**/.idea
+**/cachedata
+**/target
+**/*.iml
+doc/
+bin/
+*.zip
